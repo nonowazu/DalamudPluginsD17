@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://gitlab.com/nonowazu/mcdoesntexist.git"
+commit = "abef1282"
+owners = [
+    "nonowazu",
+]
+project_path = "mcdoesntexist"
